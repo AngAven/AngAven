@@ -1,6 +1,6 @@
-# Hello human 👋
+# Hello human 👋 🇲🇽
 
-My name is Angel Avendaño 🇲🇽, it's amazing  that you want to know more about who I am and what I'm doing.
+My name is Angel Avendaño, it's amazing  that you want to know more about who I am and what I'm doing.
 
 I am a Web Developer who likes to develop FrontEnd and Backend applications, I like to collaborate with different type of professions, mainly financial and entrepreneurs.
 
